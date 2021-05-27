@@ -7,7 +7,7 @@ author: "Jordi Martínez Blanch"
 draft: false
 images:
 series:
-tags:
+tags: 
 categories:
 layout: single
 ---
