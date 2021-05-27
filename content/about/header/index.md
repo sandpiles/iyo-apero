@@ -7,4 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a 40-something physicist from Barcelona who loves to learn and learn on many and diverse topics, ranging from mathematics to humanities. :cat:
+I'm a 40-something physicist from Barcelona who loves to learn and learn on many and diverse topics, ranging from physics and mathematics to humanities.
+
