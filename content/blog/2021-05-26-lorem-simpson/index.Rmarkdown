@@ -1,22 +1,27 @@
 ---
-title: "Lorem Ipsum"
-subtitle: ""
+title: "Aquest seria el titol de la primera entrada al blog"
+subtitle: "Aqui esta el subtitle"
 excerpt: "An .Rmarkdown post"
-date: 2021-05-26
+date: 2021-06-01
 author: "Jordi Martínez Blanch"
 draft: false
 images:
 series:
 tags: 
+  - buhh
 categories:
+  - una
+  - dos
 layout: single
 ---
 
 ## Some penguins to start
 
 ```{r}
+
 library(tidyverse)
 library(palmerpenguins)
+
 ```
 
 ```{r}
