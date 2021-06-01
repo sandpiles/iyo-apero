@@ -11,7 +11,7 @@ tags:
   - buhh
 categories:
   - una
-  - dos
+  - IntlCoop
 layout: single
 ---
 

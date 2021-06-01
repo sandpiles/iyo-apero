@@ -11,8 +11,6 @@ categories:
 - evergreen
 ---
 
-{{< here >}}
-
 ## But first, panelsets with R code chunks
 
 {{< panelset class="greetings" >}}
@@ -75,5 +73,3 @@ I've opened a door here that I regret. Now, when you do this without getting pun
 It's a hug, Michael. I'm hugging you. No… but I'd like to be asked! What's Spanish for "I know you speak English?" It's called 'taking advantage.' It's what gets you ahead in life. It's a hug, Michael. I'm hugging you.
 
 I don't understand the question, and I won't respond to it. Really? Did nothing cancel? Did you enjoy your meal, Mom? You drank it fast enough. Bad news. Andy Griffith turned us down. He didn't like his trailer.
-
-

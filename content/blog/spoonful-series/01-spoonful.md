@@ -7,9 +7,6 @@ date: 2021-01-01
 draft: false
 ---
 
-{{< here >}}
-
-
 ## does this work?
 
 ### or this?
@@ -20,6 +17,12 @@ Let's start.
 
 ## beginning
 
+This is the beginning
+
 ## middle
 
+This is the middle
+
 ## end
+
+This is the end
