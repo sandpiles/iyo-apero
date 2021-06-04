@@ -1,14 +1,14 @@
 ---
-title: "Palmer Penguins"
+title: "Data driven International cooperation"
 subtitle: ""
 excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
-date: 2019-07-02
-author: "Eric Anderson"
+date: 2021-06-04
+author: "Jordi Martínez Blanch"
 draft: false
 tags:
 - hugo-site
 categories:
-- Theme Features
+- IntlCoop
 - R
 - package
 # layout options: single or single-sidebar
