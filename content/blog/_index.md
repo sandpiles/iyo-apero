@@ -20,6 +20,8 @@ sidebar:
     
     Check out the _index.md file in the /blog folder 
     to edit this content. 
+    
+    Mes coses
   author: "Jordi Martínez Blanch @CSIC"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml

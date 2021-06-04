@@ -1,5 +1,5 @@
 ---
-title: "Aquest seria el titol de la primera entrada al blog"
+title: "Models and more models"
 subtitle: "Aqui esta el subtitle"
 excerpt: "An .Rmarkdown post"
 date: 2021-06-01
@@ -10,12 +10,43 @@ series:
 tags: 
   - buhh
 categories:
-  - una
+  - modeling
   - IntlCoop
 layout: single
 ---
 
 ## Some penguins to start
+
+Models are mathematical tools that can describe a system and capture relationships in the data given to them.
+
+
+
+
+This is the first entry in my brand new blog. Many ideas are hanging in my head on how to organize the information. At the end this blog is a way to organize my ideas, so this is for me. I will be glad to know if this liked to you, so please feel free to give any feedback in the contact section down there below.
+
+The main idea is that this blog complements with more explanations in a relaxed way each of the points in my thesis, relating to each article I write., a kind of supplementary part of each article relating them all.
+
+More. Explicar una mica sobre el per que de fer models, i fer referencia al model del master, fent el link a l'entrada dins del menu Projects.
+
+COmençar explicant models mes basics amb grafics i demés
+
+Lo del spoon que apareix al blog podria fer-se per cada un dels grans temes de la tesi, en base al llibre bookdown que estem preparat:
+
+- directives: I will continuously refer to many of the European direcives and International reports on ... .
+- Pests
+- Pesticides
+- Monitoring programs
+- Chemometrics
+- Tot lo del software a sac
+- Fer tota la relacio amb els SDGs i ICCC reports, sobretot des del punt de vista de dades i bbdd.
+- Check sobre com afegir les referencies abaix, com el distill.
+- Git
+- links a sac de videos de youtube i tal.
+- 
+
+I per que no, escriure tb sobre temes more advanced issues like AOP, chemical mixtures... amb totes les referencies als articles i llibres que he anat llegint.
+
+Aquest blog és el lloc on aniré linkant cada un dels milers de links que tinc de cada un dels temes, per donar-los un context a cada un d'ells.
 
 
 ```r
@@ -45,9 +76,14 @@ library(palmerpenguins)
 
 
 ```r
-ggplot(data = penguins, aes(x = flipper_length_mm)) +
-  geom_histogram(aes(fill = species), alpha = 0.5, position = "identity") +
-  scale_fill_manual(values = c("darkorange","darkorchid","cyan4"))
+ggplot(data = penguins, 
+       aes(x = flipper_length_mm)) +
+  geom_histogram(aes(fill = species), 
+                 alpha = 0.5, 
+                 position = "identity") +
+  scale_fill_manual(values = c("darkorange",
+                               "darkorchid",
+                               "cyan4"))
 ```
 
 ```
