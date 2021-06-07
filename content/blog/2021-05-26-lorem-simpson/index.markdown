@@ -27,7 +27,7 @@ The main idea is that this blog complements with more explanations in a relaxed 
 
 More. Explicar una mica sobre el per que de fer models, i fer referencia al model del master, fent el link a l’entrada dins del menu Projects.
 
-COmençar explicant models mes basics amb grafics i demés
+Començar explicant models mes basics amb grafics i demés
 
 Lo del spoon que apareix al blog podria fer-se per cada un dels grans temes de la tesi, en base al llibre bookdown que estem preparat:
 
