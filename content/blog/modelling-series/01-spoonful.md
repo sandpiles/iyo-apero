@@ -1,13 +1,22 @@
 ---
-title: "A first post"
+title: "A first post on models"
 weight: 1
 subtitle: ""
-excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
-date: 2021-01-01
+excerpt: "Models and more models"
+date: 2021-06-10
 draft: false
+# bibliography: [../../../static/bib/one.bib]
+# link-citations: true
+
 ---
 
-## does this work?
+## Some penguins to start
+
+More. Explicar una mica sobre el per que de fer models, i fer referencia al model del master, fent el link a l'entrada dins del menu Projects.
+
+Començar explicant models mes basics amb grafics i demés. Models are mathematical tools that can describe a system and capture relationships in the data given to them [@Soetaert2009].
+
+Models mes basics tant pel tema del primer article sobre les propietats fisico quimiques com del segon sobre els mapes i els pesticides.
 
 ### or this?
 
@@ -23,6 +32,6 @@ This is the beginning
 
 This is the middle
 
-## end
+## References
 
 This is the end

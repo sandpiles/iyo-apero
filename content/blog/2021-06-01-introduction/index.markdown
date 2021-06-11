@@ -1,7 +1,7 @@
 ---
-title: "Models and more models"
+title: "Introduction"
 subtitle: "Aqui esta el subtitle"
-excerpt: "An .Rmarkdown post"
+excerpt: "Aqui posarem algun text així que estigui bé"
 date: 2021-06-01
 author: "Jordi Martínez Blanch"
 draft: false
@@ -19,15 +19,9 @@ link-citations: true
 
 ## Some penguins to start
 
-This is the first entry in my brand new blog. Many ideas are hanging in my head on how to organize the information. At the end this blog is a way to organize my ideas, so this is for me. I will be glad to know if this liked to you, so please feel free to give any feedback in the contact section down there below [Leblanc](#ref-Leblanc2004) ([2004](#ref-Leblanc2004)).
+This is the first entry in my brand new blog. Many ideas are stored in my head on how to organize the information. At the end this blog is just a way to organize my own ideas on several topics I will be glad to know if this liked to you, so please feel free to give any feedback in the contact section down there below [Leblanc](#ref-Leblanc2004) ([2004](#ref-Leblanc2004)).
 
-The main idea is that this blog complements with more explanations in a relaxed way each of the points in my thesis, relating to each article I write., a kind of supplementary part of each article relating them all.
-
-More. Explicar una mica sobre el per que de fer models, i fer referencia al model del master, fent el link a l’entrada dins del menu Projects.
-
-Començar explicant models mes basics amb grafics i demés. Models are mathematical tools that can describe a system and capture relationships in the data given to them [Soetaert and Herman](#ref-Soetaert2009) ([2009](#ref-Soetaert2009)).
-
-Models mes basics tant pel tema del primer article sobre les propietats fisico quimiques com del segon sobre els mapes i els pesticides.
+The main idea is that this blog complements with more explanations in a funny and relaxed way each of the points in my thesis, relating to each article I write, a kind of supplementary part of each article relating them all.
 
 Lo del spoonfull series que apareix al blog podria fer-se per cada un dels grans temes de la tesi, en base al llibre bookdown que estem preparat:
 
@@ -91,12 +85,6 @@ Mes
 <div id="ref-Leblanc2004" class="csl-entry">
 
 Leblanc, Gerald. 2004. “A Textbook of Modern Toxicology.” In, edited by Ernest Hodgson, Third, 463–78. John Wiley & Sons, Inc. <https://doi.org/10.1002/0471646776.ch26>.
-
-</div>
-
-<div id="ref-Soetaert2009" class="csl-entry">
-
-Soetaert, Karline, and Peter M. J. Herman. 2009. *A Practical Guide to Ecological Modelling - Using r as a Simulation Platform*. Springer.
 
 </div>
 

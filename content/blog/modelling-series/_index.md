@@ -1,20 +1,21 @@
 ---
-title: A Spoonful of Hugo
+title: A Spoonful of Models
 description: |
-  A forking fun new feature for series.
+  This is a series of blog entries on how models can be applied to ... and also to ... .
 author: Jordi Martinez Blanch
 show_post_thumbnail: false
 show_author_byline: true
 show_post_date: true
+
 # for series listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Spoonful of Hugo
+  title: A Spoonful of Models
   author: Jordi Martinez Blanch
   description: |
-    A forking fun new feature for series.
+    This is a series of blog entries on how models can be applied to ... and also to ... .
     Even this sidebar offers a ton of customizations!
     
     Check out the _index.md file in the /blog/spoonful-series
@@ -26,8 +27,8 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: A Spoonful of Hugo  # name your series
-  author: Alison Hill
+  series: A Spoonful of Models  # name your series
+  author: Jordi Martínez Blanch
   show_author_byline: true
   show_post_date: true
   sidebar:
