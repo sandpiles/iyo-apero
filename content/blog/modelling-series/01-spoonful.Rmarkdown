@@ -5,8 +5,8 @@ subtitle: ""
 excerpt: "Models and more models"
 date: 2021-06-10
 draft: false
-# bibliography: [../../../static/bib/one.bib]
-# link-citations: true
+bibliography: [../../../static/bib/one.bib]
+link-citations: true
 
 ---
 
