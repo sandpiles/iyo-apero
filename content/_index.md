@@ -1,5 +1,5 @@
 ---
-title: "Jordi Martínez Blanch"
+title: "George M. Blanch"
 subtitle: "PhD researcher @ CSIC"
 description: "This is my personal website, where I like to write and comment on several topics of my interest, mostly related to the **physics** of **phase transitions** and **climate change** and also on general topics on **enviromental data science**."
 date: 2021-06-01T12:27:33-06:00
