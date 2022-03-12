@@ -1,8 +1,8 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal website of Jordi Martínez Blanch"
-author = "Jordi Martínez Blanch"
+title = "George's Personal website"
+author = "Jordi"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = "G-VDP3BR15CK"
 disqusShortname = ""
