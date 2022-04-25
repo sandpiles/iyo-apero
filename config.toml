@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sandpiles.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "George's Personal website"
