@@ -3,7 +3,7 @@ title: A Blog That Works
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
-author: "Jordi Martinez Blanch @CSIC"
+author: "Jordi Martinez Blanch"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -22,7 +22,7 @@ sidebar:
     to edit this content. 
     
     Mes coses
-  author: "Jordi Martínez Blanch @CSIC"
+  author: "Jordi Martínez Blanch"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: false # show ad container

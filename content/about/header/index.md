@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a physicist from Barcelona who loves to learn and learn on many and diverse topics, ranging from physics and mathematics to humanities.
+I'm a physicist from Barcelona who loves to learn and learn on many and diverse topics, ranging from physics and mathematics to international cooperation.
